@@ -1,5 +1,11 @@
 # AnalisiDecisionale
 Repository to Support Analisi Decisionale 
+## Support or Question
+
+If you have any questions or need support about this application, please contact:
+**Innovation Media**  
+[creoinnovare@gmail.com]
+
 # Privacy Policy for Analisi Decisionale
 
 **Effective Date:** [05/11/2025]
