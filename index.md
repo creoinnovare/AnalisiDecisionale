@@ -1,6 +1,6 @@
 # AnalisiDecisionale
 Repository to Support Analisi Decisionale 
-## Support or Question
+## Support or Questions
 
 If you have any questions or need support about this application, please contact:
 **Innovation Media**  
