@@ -2,7 +2,7 @@
 Repository to Support Analisi Decisionale 
 # Privacy Policy for Analisi Decisionale
 
-**Effective Date:** [Insert Date Here]
+**Effective Date:** [05/11/2025]
 
 At **Analisi Decisionale**, your privacy is important to us. This application does not collect, transmit, or store any personal or sensitive user data.
 
@@ -34,4 +34,4 @@ We may update this privacy policy in the future. Changes will be posted here wit
 If you have any questions or concerns about this policy, please contact:
 
 **Innovation Media**  
-[Insert email or GitHub contact URL]
+[creoinnovare@gmail.com]
