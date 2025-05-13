@@ -10,7 +10,7 @@ Welcome to **Analisi Decisionale**, a decision support tool designed to help you
 
 ## Getting Started
 
-Upon opening the app, you'll be presented with your list of decisions. You can create a new decision entry or tap an existing one to explore its details.
+Upon opening the app, you'll be presented with your list of decisions (note: the initial list may be empty/ use '+' in upper corner to add new entry). You can create a new decision entry or tap an existing one to explore its details.
 
 ---
 
