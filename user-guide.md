@@ -111,4 +111,4 @@ The structure also makes it easier to revisit past decisions and observe pattern
 
 ## Support
 
-For issues or feedback, contact the developer at [Insert Email or GitHub Repo].
+For issues or feedback, contact the developer at [creoinnovare@gmail.com].
