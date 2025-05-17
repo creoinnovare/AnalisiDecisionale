@@ -1,114 +1,128 @@
----
-title: Analisi Decisionale — User Guide
----
-
 # Analisi Decisionale — User Guide
 
-Welcome to **Analisi Decisionale**, a decision support tool designed to help you capture rationale, analyze outcomes, and reflect with structured insight.
+Welcome to **Analisi Decisionale**, a structured decision support tool designed to help you capture rationale, track actions, analyze outcomes, and reflect through structured insight.
 
 ---
 
 ## Getting Started
 
-Upon opening the app, you'll be presented with your list of decisions (note: the initial list may be empty/ use '+' in upper corner to add new entry). You can create a new decision entry or tap an existing one to explore its details.
+When you first open the app, you’ll see your Decision List. This list may be empty to start — tap the **+** button in the top-right corner to add your first decision. You can also insert an example decision using **Dev Controls** (gear icon).
+
+---
+
+## Core Concepts
+
+### Decision Event
+- The central unit of thought: a single decision, plan, or idea
+- Includes a title, date, and optional expectation/outcome summary
+
+### Field Notes
+- Used to record insights, inputs, or questions that influenced the decision
+- Supports tags and types (e.g., "question", "evidence") for later filtering
+
+### Reflections
+- Based on the **Plus / Minus / Next (PMN)** model
+- Helps you evaluate what worked, what didn’t, and what to improve
 
 ---
 
 ## Key Areas of the App
 
 ### 1. Decision Summary
+Each decision shows:
+- **Title** – A concise summary
+- **Expectation** – Your prediction or goal
+- **Outcome** – What actually happened
+- **Tags** – Keywords for organizing and filtering
 
-Each decision includes:
-
-- **Title** – A short descriptor of the decision.
-- **Expectation** – What you anticipate will happen.
-- **Outcome** – What actually happened, filled in after the event.
-- **Tags** – Add keywords to organize and filter decisions.
-
-A dashboard at the top of each decision offers a quick overview including tag highlights, timeline access, and insight indicators.
-
----
+A dashboard provides insight counts, tag usage, and access to the timeline.
 
 ### 2. Action Steps
+Use this area to manage key tasks:
+- Tap **Add Step** to define a new task
+- Steps include title, due date, and completion status
+- Useful for linking intentions to actual execution
 
-Plan and track tasks related to your decision:
-
-- Tap `+ Add Step` to enter a new task.
-- Each step includes a title, due date, and completion status.
-- Tap a step to mark it as complete or edit details.
-
-This area helps ensure progress is tied to key outcomes.
-
----
-
-### 3. Insights Tab
-
-This is a reflection and analysis zone with two core types:
+### 3. Insights View
+This screen helps you analyze your decision over time:
 
 #### a. Field Notes
-
-Capture informal observations, ideas, risks, or data points. Each note can be tagged and filtered later.
-
-- Tap "New Note" or switch to the *New Note* tab.
-- Add tags and insight types for categorization.
-- Tap an existing note to view or edit.
+- Capture moments, risks, questions, and ideas
+- Tap **New Note** or use the quick-entry field
+- Add tags and insight types for filtering and searching
 
 #### b. Reflections (PMN)
-
-Use the **Plus, Minus, Next** framework:
-
-- **Plus** – What worked well
-- **Minus** – What didn’t
-- **Next** – What to do differently next time
-
-Tap "New Reflection" to open a structured entry view. Entries are grouped and color-coded by type.
-
----
+- Tap **New Reflection** to access the Plus / Minus / Next entry
+- Entries are grouped by type and visually color-coded
 
 ### 4. Timeline View
-
-Chronologically displays decisions, field notes, and reflections to see how your thinking and results evolve over time.
-
----
-
-### 5. Dev Controls (Development Mode Only)
-
-Access developer tools for inserting test data or resetting the app environment. This is only available in debug or developer builds.
+Visualizes the sequence of notes and reflections to help you understand how decisions evolve.
 
 ---
 
-## Tips for Use
+## Tips for Getting the Most from the App
 
-- Use tags consistently to improve filtering and search.
-- Record reflections shortly after decisions conclude.
-- Use Action Steps to bridge intention and execution.
+- Use consistent tagging to build a searchable knowledge base
+- Reflect shortly after decisions to capture fresh insights
+- Use the timeline to review how decisions develop over time
+
+### Create an Example Decision
+- Tap the gear icon (top-right of the Decision List)
+- Select **Create Example Decision** in Dev Controls
+- A pre-filled decision will appear with notes and reflections
+- The app will automatically return to the main view
 
 ---
 
-## Reference & Background
+## Exporting Data
 
-### The PMN Framework: Plus, Minus, Next
+### How to Export
+- Tap the gear icon and choose **ExportPanel**
+- Alternatively, scroll to the bottom of any Decision screen
 
-The **Plus, Minus, Next** (PMN) method is a lightweight reflection framework introduced in *Tiny Experiments* by Anne-Laure Le Cunff. It encourages rapid, structured feedback on actions, projects, or decisions.
+### Format Options
+- **CSV and JSON** available via the **Export CSV & JSON** button
+- Files open via Share Sheet (iOS 16+ with ShareLink) or ActivityView fallback
 
-It includes three elements:
+### Export UI
+- Includes a styled confirmation screen
+- Tap **Done** to return to the app after exporting
+- A toast appears indicating successful export
 
-- **Plus (+)** – What went well? What should be celebrated or repeated?
-- **Minus (–)** – What didn’t go as expected? What challenges emerged?
-- **Next (→)** – What will you do differently next time? What ideas or adjustments came from this experience?
+---
 
-### Why It’s Useful
+## Reflection Framework: PMN
 
-PMN supports clarity in thinking, emotional processing, and continuous improvement. It is particularly effective for:
+### What Is PMN?
+The **Plus / Minus / Next** model was introduced in _Tiny Experiments_ by Anne-Laure Le Cunff. It's a fast, accessible way to reflect:
 
-- Project debriefs
-- Daily/weekly reviews
-- Learning summaries
+- **Plus (+)** – What went well?
+- **Minus (–)** – What didn’t go as planned?
+- **Next (→)** – What would you do differently?
 
-The structure also makes it easier to revisit past decisions and observe patterns in outcomes and mindset over time.
+### Why Use It?
+PMN helps clarify experiences, capture lessons, and support growth. It’s great for:
+- Project reviews
+- Learning reflections
+- Decision improvement
+
+It also creates a consistent language for future reviews.
+
+---
+
+## Roadmap Preview
+
+Planned future features:
+- Markdown export  
+- Decision templates (strategic, personal, etc.)  
+- Insight dashboards and visual analytics  
+- Tag frequency maps and filters  
 
 ---
 
 ## Support
 
-For issues or feedback, contact the developer at [creoinnovare@gmail.com].
+If you have questions or feedback, reach out to the developer at:  
+📧 [creoinnovare@gmail.com](mailto:creoinnovare@gmail.com)
+
+Thank you for using **Analisi Decisionale**!
