@@ -13,50 +13,59 @@ When you first open the app, you’ll see your Decision List. This list may be e
 ## Core Concepts
 
 ### Decision Event
-- The central unit of thought: a single decision, plan, or idea
-- Includes a title, date, and optional expectation/outcome summary
+- Represents a core decision instance
+- Includes metadata: title, expectation, outcome, and optional tags
 
 ### Field Notes
-- Used to record insights, inputs, or questions that influenced the decision
-- Supports tags and types (e.g., "question", "evidence") for later filtering
+- Used to record observations, risks, or insights
+- Can be tagged and categorized by insight type
 
 ### Reflections
-- Based on the **Plus / Minus / Next (PMN)** model
-- Helps you evaluate what worked, what didn’t, and what to improve
+- Uses the Plus / Minus / Next (PMN) framework
+- Captures lessons learned and ideas for future action
+
+### Action Steps
+- Track tasks related to a decision
+- Include due dates and reordering support
+- Incomplete steps can be visually grouped (Overdue, Due Today, Upcoming)
 
 ---
 
 ## Key Areas of the App
 
-### 1. Decision Summary
-Each decision shows:
-- **Title** – A concise summary
-- **Expectation** – Your prediction or goal
-- **Outcome** – What actually happened
-- **Tags** – Keywords for organizing and filtering
+## Templates and Automation
 
-A dashboard provides insight counts, tag usage, and access to the timeline.
+### Decision Templates
+Create example decisions from predefined templates:
+- Default
+- Project Kickoff
+- 1:1 Check-In
 
-### 2. Action Steps
-Use this area to manage key tasks:
-- Tap **Add Step** to define a new task
-- Steps include title, due date, and completion status
-- Useful for linking intentions to actual execution
+Access via **Dev Controls** (gear icon). Select a template to insert structured sample content.
 
-### 3. Insights View
-This screen helps you analyze your decision over time:
+---
+## Insights Tab
 
-#### a. Field Notes
-- Capture moments, risks, questions, and ideas
-- Tap **New Note** or use the quick-entry field
-- Add tags and insight types for filtering and searching
+This area offers structured reflection, tagging, and visual tools:
 
-#### b. Reflections (PMN)
-- Tap **New Reflection** to access the Plus / Minus / Next entry
-- Entries are grouped by type and visually color-coded
+### Field Notes
+- Tap "New Note" to enter observations
+- Select tags and insight type for later filtering
 
-### 4. Timeline View
-Visualizes the sequence of notes and reflections to help you understand how decisions evolve.
+### Reflections (PMN)
+- Tap "New Reflection" to use the Plus/Minus/Next format
+- Each section includes word count indicators
+- A Reset button is available to clear input
+
+### Summary Features
+- Tag frequency breakdown
+- Plus/Minus ratio indicator
+- “Next” reflection count
+- Activity timeline showing reflection density over time
+
+### Visual Timeline
+- Chronologically view decisions, notes, and reflections
+- Click to scroll to matching content
 
 ---
 
@@ -76,18 +85,17 @@ Visualizes the sequence of notes and reflections to help you understand how deci
 
 ## Exporting Data
 
-### How to Export
-- Tap the gear icon and choose **ExportPanel**
-- Alternatively, scroll to the bottom of any Decision screen
+### Export Options
+- Export CSV or JSON (select one or both)
+- Customize what to include: Notes, Reflections, Steps
 
-### Format Options
-- **CSV and JSON** available via the **Export CSV & JSON** button
-- Files open via Share Sheet (iOS 16+ with ShareLink) or ActivityView fallback
+### Sharing
+- Exported files can be saved or shared via Share Sheet
+- Confirmation view shows list of saved files and provides a close button
 
-### Export UI
-- Includes a styled confirmation screen
-- Tap **Done** to return to the app after exporting
-- A toast appears indicating successful export
+### Summary Export
+- Available via the Insights Summary screen
+- Text summary includes tag counts, PMN stats, and “Next” reflection count
 
 ---
 
@@ -106,17 +114,23 @@ PMN helps clarify experiences, capture lessons, and support growth. It’s great
 - Learning reflections
 - Decision improvement
 
-It also creates a consistent language for future reviews.
+---
+
+## Development & Testing
+
+### Dev Controls
+Available via the gear icon in the decision list:
+- Create Example Decision using template types
+- Export test data for development
 
 ---
 
 ## Roadmap Preview
-
-Planned future features:
-- Markdown export  
-- Decision templates (strategic, personal, etc.)  
-- Insight dashboards and visual analytics  
-- Tag frequency maps and filters  
+_Future versions may include:_
+- User-defined decision templates
+- Richer import/export options
+- Markdown and calendar-based timeline exports
+- Tag analytics dashboards
 
 ---
 
