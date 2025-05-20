@@ -102,7 +102,7 @@ This area offers structured reflection, tagging, and visual tools:
 ## Reflection Framework: PMN
 
 ### What Is PMN?
-The **Plus / Minus / Next** model was introduced in _Tiny Experiments_ by Anne-Laure Le Cunff. It's a fast, accessible way to reflect:
+The **Plus / Minus / Next** model was introduced to my workfow after reading _Tiny Experiments_ by Anne-Laure Le Cunff. It's a fast, accessible way to reflect:
 
 - **Plus (+)** – What went well?
 - **Minus (–)** – What didn’t go as planned?
