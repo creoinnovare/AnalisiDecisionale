@@ -3,6 +3,7 @@
 Bienvenue dans **Analisi Decisionale**, un outil d’aide à la décision conçu pour capturer votre raisonnement, analyser les résultats et réfléchir à l’aide d’un cadre structuré.
 
 ---
+[User Guide (EN)](user-guide.md)
 
 ## Démarrage
 
