@@ -4,6 +4,8 @@ Welcome to **Analisi Decisionale**, a structured decision support tool designed 
 
 ---
 
+[Guide de l'utilisateur (FR)](user-guide.fr.md)
+
 ## Getting Started
 
 When you first open the app, you’ll see your Decision List. This list may be empty to start — tap the **+** button in the top-right corner to add your first decision. You can also insert an example decision using **Dev Controls** (gear icon).
