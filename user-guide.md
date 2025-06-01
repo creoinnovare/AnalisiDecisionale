@@ -1,144 +1,112 @@
 # Analisi Decisionale — User Guide
 
-Welcome to **Analisi Decisionale**, a structured decision support tool designed to help you capture rationale, track actions, analyze outcomes, and reflect through structured insight.
+Welcome to **Analisi Decisionale**, your companion for structured reflection, clear action, and meaningful progress.
+
+🇫🇷 **French version available:** [Lire le guide utilisateur en français](user-guide.fr.md)
 
 ---
-
-[Guide de l'utilisateur (FR)](user-guide.fr.md)
 
 ## Getting Started
 
-When you first open the app, you’ll see your Decision List. This list may be empty to start — tap the **+** button in the top-right corner to add your first decision. You can also insert an example decision using **Dev Controls** (gear icon).
+When you open the app, you’ll see your list of **Decision Events** (note: the initial list may be empty).  
+Tap the **+** button to add a new entry or select an existing one to explore its details.
+
+For the best experience, install Analisi Decisionale on your iPhone and pair it with your Apple Watch for on-the-go insights.
 
 ---
 
-## Core Concepts
+## Core Features
 
-### Decision Event
-- Represents a core decision instance
-- Includes metadata: title, expectation, outcome, and optional tags
+### Decision Events
+- Start with a title, expectation, and optional outcome.
+- Add tags to organize decisions by theme, project, or goal.
 
 ### Field Notes
-- Used to record observations, risks, or insights
-- Can be tagged and categorized by insight type
+- Capture observations, risks, questions, or data points.
+- Tag and classify notes by insight type for easier filtering.
 
-### Reflections
-- Uses the Plus / Minus / Next (PMN) framework
-- Captures lessons learned and ideas for future action
+### Reflections (Plus / Minus / Next)
+- Use the lightweight PMN framework:
+  - **Plus** → What worked
+  - **Minus** → What didn’t
+  - **Next** → What to change next time
 
 ### Action Steps
-- Track tasks related to a decision
-- Include due dates and reordering support
-- Incomplete steps can be visually grouped (Overdue, Due Today, Upcoming)
+- Add, reorder, and track tasks linked to decisions.
+- Toggle tasks as complete or incomplete.
+- Group and view action progress over time.
 
----
-
-## Key Areas of the App
-
-## Templates and Automation
-
-### Decision Templates
-Create example decisions from predefined templates:
-- Default
-- Project Kickoff
-- 1:1 Check-In
-
-Access via **Dev Controls** (gear icon). Select a template to insert structured sample content.
-
----
-## Insights Tab
-
-This area offers structured reflection, tagging, and visual tools:
-
-### Field Notes
-- Tap "New Note" to enter observations
-- Select tags and insight type for later filtering
-
-### Reflections (PMN)
-- Tap "New Reflection" to use the Plus/Minus/Next format
-- Each section includes word count indicators
-- A Reset button is available to clear input
-
-### Summary Features
-- Tag frequency breakdown
-- Plus/Minus ratio indicator
-- “Next” reflection count
-- Activity timeline showing reflection density over time
-
-### Visual Timeline
-- Chronologically view decisions, notes, and reflections
-- Click to scroll to matching content
-
----
-
-## Tips for Getting the Most from the App
-
-- Use consistent tagging to build a searchable knowledge base
-- Reflect shortly after decisions to capture fresh insights
-- Use the timeline to review how decisions develop over time
-
-### Create an Example Decision
-- Tap the gear icon (top-right of the Decision List)
-- Select **Create Example Decision** in Dev Controls
-- A pre-filled decision will appear with notes and reflections
-- The app will automatically return to the main view
-
----
-
-## Exporting Data
+### Visual Timeline & Insights
+- View reflections, notes, and actions over time.
+- Track **Plus / Minus / Next ratios** and uncover growth patterns.
 
 ### Export Options
-- Export CSV or JSON (select one or both)
-- Customize what to include: Notes, Reflections, Steps
+- Export selected data as CSV or JSON.
+- Preview exports and share via **ShareLink** (iOS 16+) or fallback sharing on older devices.
 
-### Sharing
-- Exported files can be saved or shared via Share Sheet
-- Confirmation view shows list of saved files and provides a close button
-
-### Summary Export
-- Available via the Insights Summary screen
-- Text summary includes tag counts, PMN stats, and “Next” reflection count
+### Apple Watch Support
+- Capture insights, notes, and quick reflections directly from your wrist.
+- Syncs seamlessly with your iPhone.
 
 ---
 
-## Reflection Framework: PMN
+## Why Use Analisi Decisionale?
 
-### What Is PMN?
-The **Plus / Minus / Next** model was introduced to my workfow after reading _Tiny Experiments_ by Anne-Laure Le Cunff. It's a fast, accessible way to reflect:
-
-- **Plus (+)** – What went well?
-- **Minus (–)** – What didn’t go as planned?
-- **Next (→)** – What would you do differently?
-
-### Why Use It?
-PMN helps clarify experiences, capture lessons, and support growth. It’s great for:
-- Project reviews
-- Learning reflections
-- Decision improvement
+- Clarify your thinking and decisions.
+- Build a personal or team knowledge base.
+- Learn from past actions and outcomes.
+- Track progress and iterate with intention.
+- Maintain full control and privacy over your data.
 
 ---
 
-## Development & Testing
+## Privacy
 
-### Dev Controls
-Available via the gear icon in the decision list:
-- Create Example Decision using template types
-- Export test data for development
-
----
-
-## Roadmap Preview
-_Future versions may include:_
-- User-defined decision templates
-- Richer import/export options
-- Markdown and calendar-based timeline exports
-- Tag analytics dashboards
+Your data stays securely on your device.  
+Analisi Decisionale does **not** collect, transmit, or store personal information externally.  
+Export features let you share data only when and how you choose.
 
 ---
 
-## Support
+## Supported Languages
 
-If you have questions or feedback, reach out to the developer at:  
-📧 [creoinnovare@gmail.com](mailto:creoinnovare@gmail.com)
+- English (US)
+- French (FR)
 
-Thank you for using **Analisi Decisionale**!
+More languages planned in future updates.
+
+---
+
+## About the App
+
+Access the **About** screen (in Dev Controls) to view:
+- App version
+- Build number
+- Core Data schema version
+
+This ensures transparency and helps maintain compatibility across updates.
+
+---
+
+## Tips for Best Use
+
+- Reflect regularly, even on small decisions.  
+- Use tags consistently to improve filtering and review.  
+- Combine iPhone + Apple Watch for the most seamless capture experience.  
+- Export your data periodically to maintain personal archives or share insights with collaborators.
+
+---
+
+## What’s Next
+
+Future updates may include:
+- Additional export formats (Markdown, PDF)
+- iCloud sync support (optional, privacy-respecting)
+- Shortcuts and Siri integration
+- Expanded localization
+
+---
+
+For feedback, support, or feature suggestions, contact: **creoinnovare@gmail.com**
+
+Thank you for choosing Analisi Decisionale to support your journey of thoughtful reflection and intentional progress!
