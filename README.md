@@ -1,6 +1,7 @@
 # AnalisiDecisionale
 Repository to Support Analisi Decisionale 
 # Privacy Policy for Analisi Decisionale
+📄 [Read our Privacy Policy](privacy-policy.md)
 
 **Effective Date:** [05/21/2025]
 
