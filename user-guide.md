@@ -1,4 +1,4 @@
-# Analisi Decisionale — User Guide
+# Analisi Decisionale — User Guide (v1.9)
 
 Welcome to **Analisi Decisionale**, your companion for structured reflection, clear action, and meaningful progress.
 
