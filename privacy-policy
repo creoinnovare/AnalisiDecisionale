@@ -1,67 +1,44 @@
-# Privacy Policy — Analisi Decisionale
+# AnalisiDecisionale
+Support for Analisi Decisionale 
+# Privacy Policy for Analisi Decisionale
 
-Effective Date: May 11, 2025
+**Effective Date:** [05/21/2025]
 
-Thank you for using **Analisi Decisionale**. We value your trust and are committed to protecting your privacy.
+**User Guides**
+- 🇬🇧 [Read the English guide](user-guide.en.md)
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
+  
+At **Analisi Decisionale**, your privacy is important to us. This application does not collect, transmit, or store any personal or sensitive user data.
 
----
+## Data Collection
 
-## What Data We Collect
+We do **not** collect or share any of the following:
+- Personal information (such as name, email, or contact details)
+- User-entered content
+- Device identifiers
+- Location data
+- Analytics or usage data
 
-Analisi Decisionale **does not collect, transmit, or store any personal data**.  
-All data you create within the app — including decision events, notes, reflections, and action steps — is stored **locally on your device** (iPhone, iPad, Apple Watch).
-
-We do not use third-party analytics, ad networks, or trackers.
-
----
-
-## How Your Data Is Stored
-
-- Your data remains securely on your device.  
-- The app offers optional export features (CSV, JSON) that allow **you** to choose what to export and where to share or save it.  
-- Deleting the app from your device will permanently delete all app data stored locally.
-
----
-
-## WatchOS Companion App
-
-The Apple Watch app works in direct connection with your iPhone.  
-No data leaves your devices during normal use.
-
----
+All data you enter into the app is stored **locally on your device** and remains private unless you choose to share it.
 
 ## Third-Party Services
 
-We do not use third-party services or cloud storage within the app.
+The app does **not** use any third-party SDKs, tracking, or analytics services. No external servers are contacted by the application.
 
----
+## Children’s Privacy
 
-## Your Rights and Control
+This app does not target children and does not knowingly collect any personal information from children under the age of 13.
 
-As a user, you:
-- Maintain full ownership and control over your data.
-- Can delete your app data at any time by deleting the app from your device.
-- Can choose when and if you want to export your data.
+## Policy Updates
 
-We do not collect any identifiable information, so we do not maintain or store any user records.
+We may update this privacy policy in the future. Changes will be posted here with a new effective date.
 
----
+## Contact
 
-## Changes to This Policy
+If you have any questions or concerns about this policy, please contact:
 
-If we introduce features in the future (e.g., optional cloud sync), we will update this privacy policy and notify users accordingly.
-
-We encourage you to review this policy periodically to stay informed about how we protect your privacy.
-
----
-
-## Contact Us
-
-For any questions or concerns about this privacy policy, please contact:
-
-**Creo Innovare**  
-Email: creoinnovare@gmail.com
-
----
-
-Thank you for trusting Analisi Decisionale to support your thoughtful reflection and progress.
+**Innovation Media**  
+[https://creoinnovare.art]
+[creoinnovare@gmail.com]
