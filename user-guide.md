@@ -1,112 +1,143 @@
-# Analisi Decisionale — User Guide (v1.9)
+# Analisi Decisionale — User Guide (v2.2)
 
-Welcome to **Analisi Decisionale**, your companion for structured reflection, clear action, and meaningful progress.
+Welcome to **Analisi Decisionale**, your companion for structured reflection, confident decision-making, and intentional progress — now enhanced with multilingual support and a streamlined Apple Watch experience.
 
-🇫🇷 **French version available:** [Lire le guide utilisateur en français](user-guide.fr.md)
+🌍 **Multilingual Support Available:**
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
 
 ---
 
 ## Getting Started
 
-When you open the app, you’ll see your list of **Decision Events** (note: the initial list may be empty).  
-Tap the **+** button to add a new entry or select an existing one to explore its details.
+When you open the app, you’ll see your **Dashboard** with summaries of your recent decisions, reflections, and tasks.  
+Tap **Create New Decision** or navigate to **Reflections** or **Templates** using the bottom tab bar.
 
-For the best experience, install Analisi Decisionale on your iPhone and pair it with your Apple Watch for on-the-go insights.
+📱 For best experience:  
+Install Analisi Decisionale on your **iPhone**, **iPad**, and pair it with your **Apple Watch** for on-the-go capture.
 
 ---
 
 ## Core Features
 
-### Decision Events
-- Start with a title, expectation, and optional outcome.
-- Add tags to organize decisions by theme, project, or goal.
+### ✅ Decision Events
+- Start with a title, expectation, and (optional) outcome.
+- Add tags, metadata, and save as a **template** for reuse.
 
-### Field Notes
-- Capture observations, risks, questions, or data points.
-- Tag and classify notes by insight type for easier filtering.
-
-### Reflections (Plus / Minus / Next)
-- Use the lightweight PMN framework:
+### 🧠 Reflections (Plus / Minus / Next)
+- Use the PMN framework to capture:
   - **Plus** → What worked
   - **Minus** → What didn’t
-  - **Next** → What to change next time
+  - **Next** → What to improve
+- Log from iPhone or Apple Watch with fast PMN buttons.
 
-### Action Steps
-- Add, reorder, and track tasks linked to decisions.
-- Toggle tasks as complete or incomplete.
-- Group and view action progress over time.
+### 📋 Action Steps
+- Add and track tasks linked to each decision.
+- Reorder, toggle, and view grouped task completion progress.
 
-### Visual Timeline & Insights
-- View reflections, notes, and actions over time.
-- Track **Plus / Minus / Next ratios** and uncover growth patterns.
+### 📝 Field Notes
+- Log key questions, insights, or risks as you think.
+- Classify notes by type and tag for filtering.
 
-### Export Options
-- Export selected data as CSV or JSON.
-- Preview exports and share via **ShareLink** (iOS 16+) or fallback sharing on older devices.
+### 📊 Dashboard Insights
+- View PMN ratios, summary tiles, and active filters.
+- Track how often you reflect and the balance of Plus/Minus.
 
-### Apple Watch Support
-- Capture insights, notes, and quick reflections directly from your wrist.
-- Syncs seamlessly with your iPhone.
-
----
-
-## Why Use Analisi Decisionale?
-
-- Clarify your thinking and decisions.
-- Build a personal or team knowledge base.
-- Learn from past actions and outcomes.
-- Track progress and iterate with intention.
-- Maintain full control and privacy over your data.
+### 📆 Timeline View (Experimental)
+- See how decisions and reflections unfold over time.
+- Helpful for journaling or personal knowledge systems.
 
 ---
 
-## Privacy
+## 💡 Quick Capture & Shortcuts
 
-Your data stays securely on your device.  
-Analisi Decisionale does **not** collect, transmit, or store personal information externally.  
-Export features let you share data only when and how you choose.
+Use **Quick Reflect** to capture a thought or PMN reflection quickly.
+
+- Optional Home Screen shortcut support
+- Works across devices — iPhone, Watch, and supported iPads
+- Fast tap-to-log interface for on-the-go use
 
 ---
 
-## Supported Languages
+## ⌚ Apple Watch Support
+
+- Log a **Plus**, **Minus**, or **Next** reflection directly from your wrist.
+- Use haptics, color-coded buttons, and a compact UI for clarity.
+- Optionally input notes using dictation or emojis.
+- Optimized for smaller screens and rapid interaction.
+
+---
+
+## 🗂 Templates & Reuse
+
+- Convert existing decisions into reusable templates.
+- Start from built-in templates like:
+  - “Project Kickoff”
+  - “1:1 Check-in”
+- Save title, tags, and PMN structure for reuse.
+
+---
+
+## 📤 Export Options
+
+- Export **reflections, decisions, notes, and insights** as:
+  - CSV
+  - JSON
+- Supports ShareLink (iOS 16+) or fallback UI
+- Export includes metadata and app version for archival use
+
+---
+
+## 🛡 Privacy First
+
+All data remains **on your device**.  
+No cloud sync, no remote analytics — full user control.  
+Export only what you choose, when you choose.
+
+---
+
+## 🌐 Supported Languages
 
 - English (US)
 - French (FR)
+- Hindi (HI)
+- Italian (IT)
 
-More languages planned in future updates.
+Additional language support is planned based on user feedback.
 
 ---
 
-## About the App
+## ℹ️ About the App
 
-Access the **About** screen (in Dev Controls) to view:
+You can access the **About** screen from the **Settings or Reflect Lab** tab to view:
 - App version
-- Build number
-- Core Data schema version
-
-This ensures transparency and helps maintain compatibility across updates.
+- Core Data model version
+- Language/localization settings
 
 ---
 
-## Tips for Best Use
+## 🔁 Tips for Best Use
 
-- Reflect regularly, even on small decisions.  
-- Use tags consistently to improve filtering and review.  
-- Combine iPhone + Apple Watch for the most seamless capture experience.  
-- Export your data periodically to maintain personal archives or share insights with collaborators.
-
----
-
-## What’s Next
-
-Future updates may include:
-- Additional export formats (Markdown, PDF)
-- iCloud sync support (optional, privacy-respecting)
-- Shortcuts and Siri integration
-- Expanded localization
+- Use the **Watch app** for lightweight reflections on the go  
+- Reflect briefly but regularly to uncover patterns over time  
+- Use **Tags** consistently to unlock powerful filtering  
+- Export your data periodically to maintain personal records or share with collaborators  
+- Use templates for repeatable work or strategic moments  
 
 ---
 
-For feedback, support, or feature suggestions, contact: **creoinnovare@gmail.com**
+## 🚀 What’s Next
 
-Thank you for choosing Analisi Decisionale to support your journey of thoughtful reflection and intentional progress!
+Planned updates include:
+- PDF/Markdown export formats  
+- Tag-based insights & auto-suggestions  
+- Enhanced AI-powered summarization (experimental)
+
+---
+
+For feedback, suggestions, or support:  
+📧 **creoinnovare@gmail.com**
+
+Thank you for using Analisi Decisionale —  
+a tool for reflection, clarity, and growth, built with care.
