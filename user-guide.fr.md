@@ -1,120 +1,127 @@
-# Analisi Decisionale — Guide Utilisateur (v1.9)
+# Analisi Decisionale — Guide de l'utilisateur (v2.2)
 
-Bienvenue dans **Analisi Decisionale**, votre compagnon pour une réflexion structurée, des actions claires et des progrès significatifs.
+Bienvenue dans **Analisi Decisionale**, votre compagnon pour une réflexion structurée, une prise de décision claire et un progrès intentionnel — maintenant enrichi de la prise en charge multilingue et d'une expérience Apple Watch améliorée.
 
-🇬🇧 **Version anglaise disponible :** [Read the user guide in English](user-guide.md)
-
----
-
-## Informations sur la Version
-
-Ce guide s’applique à **Analisi Decisionale v1.9** — la dernière version incluant le support Apple Watch, un meilleur suivi des tâches, de nouvelles options d’exportation, et la localisation en français.
+🌍 **Langues disponibles :**
+- 🇬🇧 [Read the English guide](user-guide.en.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
 
 ---
 
-## Premiers Pas
+## Pour commencer
 
-À l’ouverture de l’application, vous verrez votre liste d’**Événements Décisionnels** (note : la liste initiale peut être vide).  
-Appuyez sur le bouton **+** pour ajouter une nouvelle entrée ou sélectionnez-en une existante pour en explorer les détails.
+Au lancement de l'application, vous accédez à votre **tableau de bord** qui résume vos décisions, réflexions et tâches récentes.  
+Appuyez sur **Créer une nouvelle décision** ou utilisez les onglets en bas pour accéder aux **Réflexions** ou **Modèles**.
 
-Pour une expérience optimale, installez Analisi Decisionale sur votre iPhone et associez-le à votre Apple Watch pour saisir des insights où que vous soyez.
+📱 Pour une expérience optimale :  
+Installez l'application sur votre **iPhone**, **iPad**, et associez-la à votre **Apple Watch** pour une saisie rapide.
 
 ---
 
-## Fonctionnalités Principales
+## Fonctionnalités principales
 
-### Événements Décisionnels
-- Commencez avec un titre, une attente et un résultat optionnel.
-- Ajoutez des tags pour organiser les décisions par thème, projet ou objectif.
+### ✅ Événements décisionnels
+- Commencez par un titre, des attentes et éventuellement un résultat.
+- Ajoutez des étiquettes, métadonnées ou enregistrez comme **modèle** réutilisable.
 
-### Notes de Terrain
-- Capturez des observations, risques, questions ou points de données.
-- Étiquetez et classez les notes par type d’insight pour un meilleur filtrage.
-
-### Réflexions (Plus / Moins / Prochain)
-- Utilisez le cadre léger **PMN** :
-  - **Plus** → Ce qui a bien fonctionné
+### 🧠 Réflexions (Plus / Moins / Suivant)
+- Capturez vos pensées avec le modèle PMN :
+  - **Plus** → Ce qui a fonctionné
   - **Moins** → Ce qui n’a pas fonctionné
-  - **Prochain** → Ce qu’il faut changer la prochaine fois
+  - **Suivant** → Ce qu’il faut changer
+- Disponible sur iPhone et Apple Watch.
 
-### Étapes d’Action
-- Ajoutez, réorganisez et suivez les tâches liées aux décisions.
-- Marquez les tâches comme terminées ou non.
-- Groupez et visualisez les progrès des actions au fil du temps.
+### 📋 Étapes d'action
+- Suivez les tâches liées à chaque décision.
+- Réorganisez, complétez, ou suivez vos progrès.
 
-### Timeline et Résumés Visuels
-- Visualisez les réflexions, notes et actions dans le temps.
-- Suivez les **ratios Plus / Moins / Prochain** et découvrez des tendances.
+### 📝 Notes
+- Saisissez vos observations, risques ou questions.
+- Classez-les par type ou étiquette.
 
-### Options d’Exportation
-- Exportez des données sélectionnées en CSV ou JSON.
-- Prévisualisez vos exports et partagez via **ShareLink** (iOS 16+) ou les options de partage alternatives sur les versions plus anciennes.
+### 📊 Vue du tableau de bord
+- Suivez vos ratios PMN et identifiez des modèles récurrents.
+- Accédez à vos données filtrées et résumées visuellement.
 
-### Support Apple Watch
-- Capturez des insights, notes et réflexions rapides directement depuis votre poignet.
-- Synchronisation fluide avec votre iPhone.
-
----
-
-## Pourquoi Utiliser Analisi Decisionale ?
-
-- Clarifiez vos pensées et décisions.
-- Constituez une base de connaissances personnelle ou d’équipe.
-- Apprenez des actions et résultats passés.
-- Suivez vos progrès et itérez avec intention.
-- Gardez un contrôle total sur vos données personnelles.
+### 📆 Chronologie (expérimental)
+- Visualisez comment vos décisions et réflexions évoluent dans le temps.
 
 ---
 
-## Confidentialité
+## 💡 Capture rapide & raccourcis
 
-Vos données restent stockées localement sur votre appareil.  
-Analisi Decisionale **ne collecte ni ne transmet** d’informations personnelles.  
-Les fonctionnalités d’exportation vous permettent de partager vos données uniquement selon vos souhaits.
+Utilisez **Quick Reflect** pour saisir rapidement une réflexion ou une pensée.
+
+- Ajout possible à l'écran d'accueil
+- Compatible iPhone, iPad, Watch
 
 ---
 
-## Langues Disponibles
+## ⌚ Prise en charge Apple Watch
 
-- Anglais (US)
+- Capturez une réflexion **Plus**, **Moins**, ou **Suivant** depuis votre poignet.
+- Interface compacte, boutons colorés et dictée optionnelle.
+
+---
+
+## 🗂 Modèles réutilisables
+
+- Créez ou utilisez des modèles comme :
+  - “Démarrage de projet”
+  - “Entretien 1:1”
+- Enregistrez le titre, les balises, la structure PMN.
+
+---
+
+## 📤 Exportation
+
+- Exportez vos données en :
+  - CSV
+  - JSON
+- Prise en charge de ShareLink (iOS 16+)
+
+---
+
+## 🛡 Confidentialité
+
+Toutes vos données restent **sur votre appareil**.  
+Aucune synchronisation cloud ni collecte de données personnelles.
+
+---
+
+## 🌐 Langues prises en charge
+
 - Français (FR)
-
-D’autres langues sont prévues dans les futures mises à jour.
-
----
-
-## À Propos de l’Application
-
-Vous utilisez **Analisi Decisionale v1.9**.
-
-Accédez à l’écran **À propos** (dans Dev Controls) pour voir :
-- Version de l’application
-- Numéro de build
-- Version du schéma Core Data
-
-Cela garantit la transparence et aide à maintenir la compatibilité entre les mises à jour.
+- Anglais (US)
+- Hindi (HI)
+- Italien (IT)
 
 ---
 
-## Conseils pour une Utilisation Optimale
+## ℹ️ À propos de l'application
 
-- Prenez le temps de réfléchir régulièrement, même sur les petites décisions.  
-- Utilisez les tags de façon cohérente pour améliorer le filtrage et les revues.  
-- Combinez iPhone + Apple Watch pour une expérience de capture fluide.  
-- Exportez vos données périodiquement pour créer des archives personnelles ou partager vos insights avec des collaborateurs.
-
----
-
-## Prochaines Évolutions
-
-Les futures mises à jour pourraient inclure :
-- Formats d’exportation supplémentaires (Markdown, PDF)
-- Support de la synchronisation iCloud (en option, avec respect de la confidentialité)
-- Intégration avec Raccourcis et Siri
-- Localisation étendue
+Accédez à l’écran **À propos** depuis l’onglet **Réglages ou Reflect Lab** pour afficher :
+- Version de l’app
+- Version du modèle de données
+- Paramètres de langue
 
 ---
 
-Pour tout retour, assistance ou suggestion de fonctionnalités, contactez : **creoinnovare@gmail.com**
+## 🔁 Conseils d'utilisation
 
-Merci d’avoir choisi Analisi Decisionale pour accompagner votre parcours de réflexion et de progrès intentionnel !
+- Réfléchissez régulièrement, même brièvement  
+- Utilisez les balises de manière cohérente  
+- Exportez régulièrement vos réflexions  
+- Combinez iPhone + Apple Watch pour plus de fluidité
+
+---
+
+## 🚀 Prochaines étapes
+
+- Exportation en PDF/Markdown  
+- Résumés intelligents PMN
+
+---
+
+📧 Contact : **creoinnovare@gmail.com**
