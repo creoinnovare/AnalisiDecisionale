@@ -1,11 +1,15 @@
 # AnalisiDecisionale
-Repository to Support Analisi Decisionale 
+Support for Analisi Decisionale 
 # Privacy Policy for Analisi Decisionale
 
 **Effective Date:** [05/21/2025]
 
-[Guide de l'utilisateur (FR)](user-guide.fr.md)
-
+**User Guides**
+- 🇬🇧 [Read the English guide](user-guide.en.md)
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
+  
 At **Analisi Decisionale**, your privacy is important to us. This application does not collect, transmit, or store any personal or sensitive user data.
 
 ## Data Collection
