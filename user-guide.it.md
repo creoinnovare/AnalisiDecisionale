@@ -4,10 +4,10 @@
 Benvenuto in **Analisi Decisionale**, il tuo compagno fidato per la riflessione strutturata, le decisioni intenzionali e la crescita personale o professionale — ora con esportazione avanzata, monitoraggio migliorato delle Note e un'esperienza utente raffinata su iPhone, iPad e Apple Watch.
 
 🌍 **Supporto multilingue disponibile:**
-- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)  
-- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)  
 - 🇬🇧 [Read the English guide](user-guide.en.md)
-
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
 ---
 
 ## Iniziare
