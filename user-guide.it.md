@@ -6,7 +6,7 @@ Benvenuto in **Analisi Decisionale**, il tuo compagno fidato per la riflessione 
 🌍 **Supporto multilingue disponibile:**
 - 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)  
 - 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)  
-- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
+- 🇬🇧 [Read the English guide](user-guide.en.md)
 
 ---
 
