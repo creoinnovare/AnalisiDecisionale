@@ -1,127 +1,152 @@
-# Analisi Decisionale — Guide de l'utilisateur (v2.2)
+# Analisi Decisionale — Guide Utilisateur (v2.4)
 
-Bienvenue dans **Analisi Decisionale**, votre compagnon pour une réflexion structurée, une prise de décision claire et un progrès intentionnel — maintenant enrichi de la prise en charge multilingue et d'une expérience Apple Watch améliorée.
+Bienvenue dans **Analisi Decisionale**, votre compagnon de confiance pour une réflexion structurée, une prise de décision intentionnelle et une croissance personnelle ou professionnelle — désormais avec des options d'exportation améliorées, un meilleur suivi des Notes de Terrain et une expérience utilisateur affinée sur iPhone, iPad et Apple Watch.
 
-🌍 **Langues disponibles :**
-- 🇬🇧 [Read the English guide](user-guide.en.md)
-- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
+🌍 **Support multilingue disponible :**
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)  
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)  
 - 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
 
 ---
 
-## Pour commencer
+## Démarrage
 
-Au lancement de l'application, vous accédez à votre **tableau de bord** qui résume vos décisions, réflexions et tâches récentes.  
-Appuyez sur **Créer une nouvelle décision** ou utilisez les onglets en bas pour accéder aux **Réflexions** ou **Modèles**.
+Lancez l’application pour voir votre **Tableau de bord**, où vous trouverez des résumés de vos décisions, réflexions, Notes de Terrain et actions.
 
-📱 Pour une expérience optimale :  
-Installez l'application sur votre **iPhone**, **iPad**, et associez-la à votre **Apple Watch** pour une saisie rapide.
+Commencez par appuyer sur **Créer une nouvelle décision**, parcourez l’activité passée ou accédez à l’onglet **À propos** pour les détails de l’application et les options d’exportation.
 
----
-
-## Fonctionnalités principales
-
-### ✅ Événements décisionnels
-- Commencez par un titre, des attentes et éventuellement un résultat.
-- Ajoutez des étiquettes, métadonnées ou enregistrez comme **modèle** réutilisable.
-
-### 🧠 Réflexions (Plus / Moins / Suivant)
-- Capturez vos pensées avec le modèle PMN :
-  - **Plus** → Ce qui a fonctionné
-  - **Moins** → Ce qui n’a pas fonctionné
-  - **Suivant** → Ce qu’il faut changer
-- Disponible sur iPhone et Apple Watch.
-
-### 📋 Étapes d'action
-- Suivez les tâches liées à chaque décision.
-- Réorganisez, complétez, ou suivez vos progrès.
-
-### 📝 Notes
-- Saisissez vos observations, risques ou questions.
-- Classez-les par type ou étiquette.
-
-### 📊 Vue du tableau de bord
-- Suivez vos ratios PMN et identifiez des modèles récurrents.
-- Accédez à vos données filtrées et résumées visuellement.
-
-### 📆 Chronologie (expérimental)
-- Visualisez comment vos décisions et réflexions évoluent dans le temps.
+**Meilleure expérience :**  
+Utilisez sur **iPhone**, **iPad** et **Apple Watch** pour une capture fluide des journaux et décisions.
 
 ---
 
-## 💡 Capture rapide & raccourcis
+## Fonctionnalités Principales
 
-Utilisez **Quick Reflect** pour saisir rapidement une réflexion ou une pensée.
+### Événements Décisionnels
+- Créez une nouvelle décision avec un **titre**, une **attente**, et un **résultat** facultatif.
+- Ajoutez des **tags** pour organiser par thèmes et filtrer.
+- Enregistrez des **modèles** réutilisables pour des décisions récurrentes.
 
-- Ajout possible à l'écran d'accueil
-- Compatible iPhone, iPad, Watch
+### Notes de Terrain
+- Capturez des **observations, questions, risques ou idées** individuelles.
+- Utilisez les **tags** et **types** pour filtrer et résumer les notes.
+- Créez, modifiez et supprimez les notes dans une vue dédiée.
 
----
+### Étapes d’Action
+- Suivez les progrès avec des **étapes** liées à chaque décision.
+- Marquez comme complétée, réorganisez, ou visualisez l’avancement groupé en temps réel.
 
-## ⌚ Prise en charge Apple Watch
-
-- Capturez une réflexion **Plus**, **Moins**, ou **Suivant** depuis votre poignet.
-- Interface compacte, boutons colorés et dictée optionnelle.
-
----
-
-## 🗂 Modèles réutilisables
-
-- Créez ou utilisez des modèles comme :
-  - “Démarrage de projet”
-  - “Entretien 1:1”
-- Enregistrez le titre, les balises, la structure PMN.
-
----
-
-## 📤 Exportation
-
-- Exportez vos données en :
-  - CSV
-  - JSON
-- Prise en charge de ShareLink (iOS 16+)
+### Réflexions (Plus / Moins / Suivant)
+- Utilisez le cadre PMN pour réfléchir :
+  - **Plus** → Ce qui a fonctionné  
+  - **Moins** → Ce qui n’a pas fonctionné  
+  - **Suivant** → Ce qu’il faut améliorer
+- Enregistrez rapidement des réflexions via l’iPhone ou la montre.
 
 ---
 
-## 🛡 Confidentialité
+## Recherche & Résumés des Notes de Terrain
 
-Toutes vos données restent **sur votre appareil**.  
-Aucune synchronisation cloud ni collecte de données personnelles.
-
----
-
-## 🌐 Langues prises en charge
-
-- Français (FR)
-- Anglais (US)
-- Hindi (HI)
-- Italien (IT)
+- Filtrez les Notes par **type**, **tag** ou **mot-clé**.
+- Consultez des résumés du nombre de notes enregistrées par type.
+- Des améliorations visuelles facilitent la lisibilité et la navigation rapide.
 
 ---
 
-## ℹ️ À propos de l'application
+## Exportation & Sauvegarde
 
-Accédez à l’écran **À propos** depuis l’onglet **Réglages ou Reflect Lab** pour afficher :
-- Version de l’app
-- Version du modèle de données
-- Paramètres de langue
-
----
-
-## 🔁 Conseils d'utilisation
-
-- Réfléchissez régulièrement, même brièvement  
-- Utilisez les balises de manière cohérente  
-- Exportez régulièrement vos réflexions  
-- Combinez iPhone + Apple Watch pour plus de fluidité
+- Exportez vos **Décisions**, **Étapes** et **Notes de Terrain** – (Réflexions bientôt disponibles) en :
+  - **CSV**
+  - **JSON**
+- Accès via l’onglet **À propos**, sous **Exportation & Sauvegarde**.
+- Inclut des métadonnées comme les horodatages et la version de l’application.
 
 ---
 
-## 🚀 Prochaines étapes
+## Intégration Apple Watch
 
-- Exportation en PDF/Markdown  
-- Résumés intelligents PMN
+- Enregistrez des réflexions (Plus, Moins, Suivant) en un seul tap.
+- Créez des décisions ou réflexions avec la **dictée** ou des **emojis**.
+- Interface légère optimisée pour une saisie rapide.
 
 ---
 
-📧 Contact : **creoinnovare@gmail.com**
+## Modèles Réutilisables
+
+- Créez vos propres modèles ou utilisez ceux intégrés comme :
+  - “Lancement de projet”  
+  - “Petit test”  
+  - “Bilan 1:1”
+- Préremplissez les titres, tags et structures pour une saisie rapide.
+
+---
+
+## Vue Tableau de Bord
+
+- Résumé de l’activité : total de décisions, actions et Notes de Terrain.
+- Visualisations des tags, réflexions récentes, et équilibre PMN.
+- Optimisée pour les formats iPhone et iPad.
+
+---
+
+## Capture Rapide
+
+- Saisissez rapidement pensées ou questions.
+- Utilisez les **raccourcis de l’écran d’accueil** (iOS) pour un accès instantané.
+- Combinez avec l’application Watch pour un système portable de journalisation.
+
+---
+
+## Respect de la vie privée
+
+- Toutes les données sont **stockées localement sur votre appareil**.
+- Pas de synchronisation automatique. Pas de publicités. Aucune analyse distante.
+- Vous choisissez ce que vous exportez et quand.
+
+---
+
+## Langues prises en charge
+
+- Anglais 🇺🇸  
+- Français 🇫🇷  
+- Hindi 🇮🇳  
+- Italien 🇮🇹  
+
+Le support pour d'autres langues est prévu selon les retours de la communauté.
+
+---
+
+## À propos de l'application
+
+Accédez à l’onglet **À propos** pour voir :
+- La version de l’application  
+- Les contrôles d’exportation & sauvegarde  
+- Paramètres de localisation  
+- Coordonnées du développeur
+
+---
+
+## Conseils d’utilisation
+
+- Réfléchissez souvent — même brièvement pour identifier des tendances  
+- Utilisez des **tags** cohérents pour filtrer et analyser  
+- Exportez régulièrement si vous souhaitez travailler vos données ailleurs  
+- Créez votre propre **bibliothèque de modèles** pour workflows récurrents  
+- Explorez les **Notes de Terrain** comme outil de journalisation en temps réel
+
+---
+
+## À venir
+
+Mises à jour futures possibles :
+- Formats d’exportation PDF et Markdown  
+- Suggestions de tags selon les entrées précédentes  
+- Résumés intelligents générés par IA (expérimental)
+
+---
+
+Pour toute question ou remarque :  
+**creoinnovare@gmail.com**
+
+Merci d’utiliser Analisi Decisionale —  
+un outil réfléchi pour la clarté, l’apprentissage et la croissance.
