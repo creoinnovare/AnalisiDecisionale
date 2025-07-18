@@ -4,10 +4,10 @@
 Welcome to **Analisi Decisionale**, your trusted companion for structured reflection, intentional decision-making, and personal or professional growth — now with enhanced export options, improved Field Note tracking, and a refined user experience across iPhone, iPad, and Apple Watch.
 
 🌍 **Multilingual Support Available:**
-- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)  
-- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)  
+- 🇬🇧 [Read the English guide](user-guide.en.md)
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
 - 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
-
 ---
 
 ## Getting Started
