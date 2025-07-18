@@ -1,126 +1,150 @@
-# Analisi Decisionale — Guida Utente (v2.2)
 
-Benvenuto in **Analisi Decisionale** — il tuo strumento per riflettere con chiarezza, prendere decisioni consapevoli e crescere con intenzione. Ora disponibile con supporto multilingue e un'interfaccia migliorata per Apple Watch.
+# Analisi Decisionale — Guida Utente (v2.4)
 
-🌍 **Lingue disponibili:**
-- 🇬🇧 [Read in English](user-guide.en.md)
-- 🇫🇷 [Lire en français](user-guide.fr.md)
-- 🇮🇳 [हिंदी में पढ़ें](user-guide.hi.md)
+Benvenuto in **Analisi Decisionale**, il tuo compagno fidato per la riflessione strutturata, le decisioni intenzionali e la crescita personale o professionale — ora con esportazione avanzata, monitoraggio migliorato delle Note e un'esperienza utente raffinata su iPhone, iPad e Apple Watch.
+
+🌍 **Supporto multilingue disponibile:**
+- 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)  
+- 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)  
+- 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
 
 ---
 
-## Per iniziare
+## Iniziare
 
-All'avvio, vedrai la tua **Dashboard** con riepiloghi di decisioni, riflessioni e attività recenti.  
-Tocca **Crea nuova decisione** o usa la barra in basso per accedere a **Riflessioni** o **Modelli**.
+Apri l'app per visualizzare la tua **Dashboard**, dove troverai i riepiloghi delle decisioni, riflessioni, Note e azioni.
 
-📱 Per il miglior utilizzo:  
-Installa l'app su **iPhone** o **iPad** e abbinala ad Apple Watch.
+Tocca **Crea nuova decisione**, esplora le attività precedenti o accedi alla scheda **Informazioni** per dettagli e opzioni di esportazione.
+
+**Migliore esperienza:**  
+Utilizza su **iPhone**, **iPad** e **Apple Watch** per una cattura fluida in movimento.
 
 ---
 
 ## Funzionalità principali
 
-### ✅ Eventi decisionali
-- Inizia con titolo, aspettative e (opzionale) risultato
-- Aggiungi tag, metadati, e salva come **modello** riutilizzabile
+### Eventi decisionali
+- Crea una nuova decisione con **titolo**, **aspettativa** e un **risultato** facoltativo.
+- Aggiungi **tag** per organizzare e filtrare.
+- Salva **modelli riutilizzabili** per decisioni ricorrenti.
 
-### 🧠 Riflessioni (Plus / Minus / Next)
-- Registra pensieri usando PMN:
-  - **Plus** → Cosa ha funzionato
-  - **Minus** → Cosa non ha funzionato
+### Note sul campo
+- Cattura **osservazioni, domande, rischi o idee**.
+- Usa **tag** e **tipi** per filtrare e riassumere.
+- Crea, modifica ed elimina le note in una vista dedicata.
+
+### Passaggi di azione
+- Monitora i **passaggi** associati a ciascuna decisione.
+- Segna come completati, riordina o visualizza l'avanzamento raggruppato.
+
+### Riflessioni (Plus / Minus / Next)
+- Utilizza la struttura PMN per riflettere:
+  - **Plus** → Cosa ha funzionato  
+  - **Minus** → Cosa non ha funzionato  
   - **Next** → Cosa migliorare
-- Rapida registrazione da iPhone o Watch
-
-### 📋 Attività collegate
-- Aggiungi, ordina, e completa azioni
-- Raggruppa per decisione e monitora progresso
-
-### 📝 Note
-- Salva osservazioni, rischi, idee
-- Classifica per tipo e tag
-
-### 📊 Dashboard & approfondimenti
-- Analizza pattern PMN e frequenza riflessioni
-- Visualizza filtri e riassunti attivi
-
-### 📆 Vista cronologica (sperimentale)
-- Esamina l'evoluzione nel tempo delle decisioni
+- Registra velocemente da iPhone o Watch.
 
 ---
 
-## 💡 Quick Capture e scorciatoie
+## Ricerca e riepilogo delle Note
 
-- Usa **Quick Reflect** per inserire rapidamente idee
-- Compatibile con iOS, iPadOS e WatchOS
-
----
-
-## ⌚ Supporto Apple Watch
-
-- Registra riflessioni **Plus / Minus / Next** dal polso
-- Pulsanti colorati, feedback aptico, UI compatta
+- Filtra Note per **tipo**, **tag** o **parola chiave**.
+- Visualizza i riepiloghi delle note registrate per tipo.
+- Miglioramenti visivi per leggibilità e navigazione rapida.
 
 ---
 
-## 🗂 Modelli
+## Esportazione e Backup
 
-- Salva decisioni ricorrenti come modelli
-- Include:
-  - “Avvio progetto”
-  - “Incontro 1:1”
-- Personalizza struttura PMN
-
----
-
-## 📤 Esportazione
-
-- Esporta in CSV o JSON
-- Supporta ShareLink e anteprima
-- Include metadati e versione app
+- Esporta **Decisioni**, **Passaggi** e **Note** - (riflessioni presto disponibili) in:
+  - **CSV**
+  - **JSON**
+- Accessibile dalla scheda **Informazioni**, sotto **Esporta e Backup**.
+- Include metadati come timestamp e versione app.
 
 ---
 
-## 🛡 Privacy
+## Integrazione Apple Watch
 
-I tuoi dati restano **solo sul tuo dispositivo**.  
-Non vengono sincronizzati o condivisi esternamente.
-
----
-
-## 🌐 Lingue supportate
-
-- Italiano (IT)
-- Inglese (US)
-- Francese (FR)
-- Hindi (HI)
+- Registra riflessioni con un solo tocco.
+- Crea decisioni o riflessioni con **dettatura** o **emoji**.
+- Interfaccia ottimizzata per acquisizione rapida.
 
 ---
 
-## ℹ️ Info App
+## Modelli Riutilizzabili
 
-Visualizza:
-- Versione app
-- Versione modello Core Data
-- Impostazioni lingua
-
----
-
-## 🔁 Consigli d'uso
-
-- Rifletti con costanza, anche brevemente  
-- Usa tag coerenti per filtri utili  
-- Abbina iPhone e Apple Watch per il massimo beneficio  
-- Esporta regolarmente per backup o condivisione
+- Crea i tuoi o scegli tra i modelli inclusi:
+  - “Project Kickoff”  
+  - “Tiny Experiment”  
+  - “1:1 Check-in”
 
 ---
 
-## 🚀 In arrivo
+## Vista Dashboard
 
-- Esportazione in PDF/Markdown  
-- Suggerimenti intelligenti basati su PMN  
-- Integrazione estesa con modelli
+- Riepilogo di decisioni, azioni e Note.
+- Visualizzazione dell'uso dei tag e riepilogo PMN.
+- Ottimizzato per iPhone e iPad.
 
 ---
 
-📧 Contattaci: **creoinnovare@gmail.com**
+## Cattura rapida
+
+- Registra rapidamente pensieri o domande.
+- Usa i collegamenti iOS dalla schermata Home.
+- Con l'app Watch, crea un sistema portatile di journaling.
+
+---
+
+## Design orientato alla privacy
+
+- Tutti i dati sono archiviati **localmente sul dispositivo**.
+- Nessuna sincronizzazione automatica. Nessuna pubblicità. Nessuna analisi remota.
+- Tu scegli cosa esportare e quando.
+
+---
+
+## Lingue supportate
+
+- Inglese 🇺🇸  
+- Francese 🇫🇷  
+- Hindi 🇮🇳  
+- Italiano 🇮🇹  
+
+---
+
+## Informazioni sull'app
+
+Accedi alla scheda **Informazioni** per visualizzare:
+- Versione dell'app  
+- Controlli di esportazione e backup  
+- Impostazioni di localizzazione  
+- Contatto sviluppatore
+
+---
+
+## Suggerimenti per l'uso
+
+- Rifletti spesso — anche voci brevi rivelano modelli  
+- Usa tag coerenti per filtrare e analizzare  
+- Esporta periodicamente i tuoi dati  
+- Crea una libreria di modelli per attività ripetute  
+- Esplora le Note per journaling in tempo reale
+
+---
+
+## Prossimi aggiornamenti
+
+Le future versioni potrebbero includere:
+- Esportazione in PDF e Markdown  
+- Suggerimenti di tag  
+- Riepiloghi AI (sperimentale)
+
+---
+
+Per domande o suggerimenti:  
+**creoinnovare@gmail.com**
+
+Grazie per aver scelto Analisi Decisionale —  
+uno strumento pensato per chiarezza, apprendimento e crescita.
