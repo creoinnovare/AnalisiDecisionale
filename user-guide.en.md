@@ -8,8 +8,6 @@ Welcome to **Analisi Decisionale**, your trusted companion for structured reflec
 - 🇫🇷 [Lire le guide utilisateur en français](user-guide.fr.md)
 - 🇮🇳 [हिंदी में गाइड पढ़ें](user-guide.hi.md)
 - 🇮🇹 [Leggi la guida in italiano](user-guide.it.md)
-  
-
 ---
 
 ## Getting Started
