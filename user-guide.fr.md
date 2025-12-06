@@ -1,4 +1,4 @@
-# Analisi Decisionale — Guide Utilisateur (v2.4)
+# Analisi Decisionale — Guide Utilisateur
 
 Bienvenue dans **Analisi Decisionale**, votre compagnon de confiance pour une réflexion structurée, une prise de décision intentionnelle et une croissance personnelle ou professionnelle — désormais avec des options d'exportation améliorées, un meilleur suivi des Notes de Terrain et une expérience utilisateur affinée sur iPhone, iPad et Apple Watch.
 
