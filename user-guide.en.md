@@ -1,5 +1,5 @@
 
-# Analisi Decisionale — User Guide (v2.4)
+# Analisi Decisionale — User Guide 
 
 Welcome to **Analisi Decisionale**, your trusted companion for structured reflection, intentional decision-making, and personal or professional growth — now with enhanced export options, improved Field Note tracking, and a refined user experience across iPhone, iPad, and Apple Watch.
 
