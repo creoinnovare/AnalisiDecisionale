@@ -1,5 +1,5 @@
 
-# Analisi Decisionale — Guida Utente (v2.4)
+# Analisi Decisionale — Guida Utente
 
 Benvenuto in **Analisi Decisionale**, il tuo compagno fidato per la riflessione strutturata, le decisioni intenzionali e la crescita personale o professionale — ora con esportazione avanzata, monitoraggio migliorato delle Note e un'esperienza utente raffinata su iPhone, iPad e Apple Watch.
 
